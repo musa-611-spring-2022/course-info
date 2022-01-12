@@ -13,11 +13,8 @@ Welcome to _JavaScript Programming for Planners & Designers_!
   * Mjumbe: Monday 12:00PM-1:00PM @Meyerson Basement + Wednesday TBD online (and special request as necessary)
   * Bingchu: TBD
 * **Need help?**
-  * Slack organization
+  * [Slack organization](https://musa6112022.slack.com)
   * Stack Overflow is your friend!
-
-Map-based Web Application Examples
-Data Sources
 
 ## Software
 * [Visual Studio Code](https://code.visualstudio.com/)
@@ -30,6 +27,7 @@ Data Sources
 * [Introduction to Web Mapping](http://132.72.155.230:3838/js/index.html) - A web-based text book specifically for JavaScript-based mapping. A good portion of this class will overlap with the material in this book.
 * [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) - A set of free online books which start from scratch and go, in-depth, into javascript concepts and best practices.
 * [Eloquent Javascript](http://eloquentjavascript.net/) - This is a free book with some _advanced_ content. As you think about the application you might like to build for your final, the chapters on HTML forms, drawing with javascript, building a game, and constructing your own painting application will push further than we can in class.
+* [Map-based Web Application Examples](webmap-examples.md)
 
 ## Objectives
 
