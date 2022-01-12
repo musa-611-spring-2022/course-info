@@ -1,5 +1,7 @@
 # Map-based Web Application Examples
 
+* [Parkadelphia](https://parkadelphia.com/)
+* [NYC Council Participatory Budgeting](http://ideas.pbnyc.org/)
 * [Project Ukko](http://project-ukko.net/map.html)
 * [Moscow bike share stats](http://urbica.co/bikes/)
 * [Automatic](https://dashboard.automatic.com/)
