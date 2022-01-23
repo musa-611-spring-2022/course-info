@@ -96,13 +96,14 @@ The final assignment for the class will be decided through a project proposal. F
     * Underscore functions
     * Refactoring code
 
-#### Week 4 - jQuery
-* Introduction to jQuery
-* Async behaviors
+#### Week 4 - Async Behavior 1
+* Fetching data
+* Anatomy of a Web Request
 
-#### Week 5 - HTML & CSS
-* HTML structure
-* jQuery selectors
+#### Week 5 - Async Behavior 2
+* CSS selectors & the DOM
+* Responding to events
+* The JavaScript event loop
 
 #### Week 6 - Advanced leaflet cartography
 * APIs
