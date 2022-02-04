@@ -4,7 +4,7 @@ Welcome to _JavaScript Programming for Planners & Designers_!
 
 * **Course**: CPLN-692/MUSA-611, University of Pennsylvania
 * **Location**: Meyerson Hall B4 and online
-* **Schedule**: 2-5PM, Fridays
+* **Schedule**: 1:45-4:45PM, Mondays
 * **Instructor**:
   * Mjumbe Poe, mjumbe@upenn.edu
 * **TA**:
