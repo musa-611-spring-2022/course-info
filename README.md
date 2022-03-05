@@ -84,6 +84,7 @@ The final assignment for the class will be decided through a project proposal. F
     * Editors
     * Version control (git+github)
 * Libraries and imports
+* Code review, discussion of best practices
 
 #### Week 3 - Working with data
 * Review:
@@ -112,16 +113,15 @@ The final assignment for the class will be decided through a project proposal. F
 
 #### Week 7 - Midterm lab
 * In class (collaborative!) work on midterm project
+* Mid-terms will be presented week 10
 
 #### Week 8 - Midterm presentation & discussion
-* Midterm presentations
+* Map tiles and APIs (using Mapbox)
 * Discussion of direction for future classes
-* Code review, discussion of best practices
 
 #### Weeks 9-15 - Possible directions
 * Turf
 * Spatial SQL
-* Mapbox
 * Leaflet Draw
 * D3/Chart.js
 * Bootstrap
