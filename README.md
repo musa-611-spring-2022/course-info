@@ -10,7 +10,7 @@ Welcome to _JavaScript Programming for Planners & Designers_!
 * **TA**:
   * Bingchu Chen, bcchen@upenn.edu
 * **Office Hours**:
-  * Mjumbe: Monday 12PM-1:30PM @Meyerson Basement + Thursday 2:30PM-4PM online (and special request as necessary) -- [book a time](https://calendly.com/mjumbe-upenn/office-hours)
+  * Mjumbe: Monday 12PM-1:30PM @Meyerson B6 + Thursday 2:30PM-4PM online (and special request as necessary) -- [book a time](https://calendly.com/mjumbe-upenn/office-hours)
   * Bingchu: Tuesday 3:30PM-4:30PM online -- [book a time](https://calendly.com/bcchen/musa611-ta-oh)
 * **Need help?**
   * [Slack organization](https://musa6112022.slack.com)
